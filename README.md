@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 Due 10/02 Sunday, 11:59pm 
 
 
 **Please read Code Grading Rubric (in Blackboard - Assignment) carefully before you start this assignment.**
