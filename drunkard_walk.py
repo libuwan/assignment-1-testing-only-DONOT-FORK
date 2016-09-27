@@ -1,3 +1,5 @@
+# This is for testing only.
+
 def drunkard_walk(x, y, n):
     """
     x, y: the original location
