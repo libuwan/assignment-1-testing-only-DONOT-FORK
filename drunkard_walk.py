@@ -1,5 +1,5 @@
 # This is for testing only.
-
+# test from forked
 def drunkard_walk(x, y, n):
     """
     x, y: the original location
